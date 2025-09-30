@@ -1,5 +1,6 @@
 {
   "name": "scrimba",
+  "homepage": "https://bellxalli.github.io/scrimba",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,7 +26,6 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "gh-pages": "^6.3.0",
     "globals": "^16.4.0",
-    "vite": "^7.1.7",
-    "homepage": "https://bellxalli.github.io/scrimba"
+    "vite": "^7.1.7"
   }
 }
